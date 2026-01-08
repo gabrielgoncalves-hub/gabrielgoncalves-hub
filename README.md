@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Gabriel Gonçalves Santana 👋
 
 Atualmente estou iniciando minha jornada na tecnologia e focado em aprender os fundamentos do desenvolvimento.
 
