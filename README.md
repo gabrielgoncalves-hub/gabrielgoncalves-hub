@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome] 👋
 
-<!--
-**gabrielgoncalves-hub/gabrielgoncalves-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou iniciando minha jornada na tecnologia e focado em aprender os fundamentos do desenvolvimento.
 
-Here are some ideas to get you started:
+### 🛠️ No momento estou aprendendo:
+- 🌐 Desenvolvimento Web (HTML, CSS, JS)
+- ⚙️ Lógica de Programação
+- 🚀 Versionamento com Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gon%C3%A7alves-santana/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.goncalves.santanna@gmail.com)
