@@ -33,9 +33,3 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielgoncalves-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoncalves-hub&layout=compact&theme=dark)
-
----
