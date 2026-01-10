@@ -5,7 +5,9 @@
 ### 🚀 Sobre mim:
 
 🎓 Estou em início de carreira, focando em me tornar um Especialista **Back-end**.
+
 💻 Meu foco principal é o desenvolvimento com **Java** e o ecossistema **Spring**.
+
 🚀 Sempre em busca de aprender novas tecnologias e colaborar em projetos que resolvam problemas reais.
 
 ---
